@@ -11,7 +11,7 @@ export default function Home() {
       overflow-y-auto
 
     ">
-      <Header></Header>
+      {/* <Header children={}></Header> */}
     </div>
   )
 }
